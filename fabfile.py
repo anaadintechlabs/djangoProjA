@@ -2,7 +2,7 @@
 Server layout:
     ~/services/supervisor/
         holds the configurations for these applications
-        for each environment (staging, demo, etc) running on the server.
+        for each environment  (staging, demo, etc) running on the server.
         Theses folders are included in the /etc/supervisor configuration.
     ~/www/
         This folder contains the code, python environment, and logs
